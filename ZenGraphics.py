@@ -14,7 +14,7 @@ Mechatronik/Mikrocomputer
 Prof. Dr.-Ing. Tobias Ellermeyer
 
 """
-#Eine änderung...
+# Dies ist hoffentlich nur im Testing-Branch zu sehen ...
 
 import pygame	# for graphics, see pygame.org
 import numpy as np
